@@ -1,0 +1,89 @@
+parent page-academics...name changed--programmes
+research programmes
+	ms
+		ms_admn_prcd
+		ms_curriculum
+	phd
+		phd_admn_prcd
+		phd_curriculum
+academic programmes
+	parent page first child				-btech                 name changed----btech
+		admn_prcd
+		parent page-curriculum						name changed----btech_curriculum
+			sem3
+				ma201
+				cl201
+				ee227
+				cl203
+				cl205
+				cl207
+				ce297
+				ee221
+			sem4
+				ma202
+				cl202
+				cl204
+				cl206
+				cl208
+				cl210
+				cl212
+				cl214
+			sem5
+				cl301
+				cl303
+				cl305
+				cl307
+				cl309
+				cl311
+				cl313
+				cl315
+				ug syllabus 200 820095 sem
+			sem6
+				hm302
+				cl302
+				cl304
+				cl306
+				cl308
+				cl310
+				cl312
+				
+			sem7
+				cl401
+				cl403
+				hm401
+				cl405
+				cl407
+				cl409
+				cl411
+				ug syllabus 2008 2009 7th sem
+			sem8
+				cl402
+				cl404
+				cl406
+
+			ELECTIVES
+			ugsyllabus20102011
+
+	parent page-second child_spoiled grand child-------mtech          			name changed----mtech
+		admission procedure
+		curriculum
+			plant
+				mt_sem1
+				mt_sem2
+				mt_sem3
+				mt_sem4
+				plant_electives
+				plantdesign 2008 2009						file not found
+			process
+				mtpci_sem1
+				mtpci_sem2
+				mtpci_sem3
+				mtpci_sem4
+				mtpci_electives
+				Latest PG-Process Control 2008-09.pdf
+			ee
+				ee_sem1
+				ee_sem2
+				ee_sem3
+				ee_sem4
+				ee_electives
