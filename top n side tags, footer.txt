@@ -52,7 +52,7 @@ icon		link rel="shortcut
 			
 	<div class="menu-main-menu-container">
 		<ul id="menu-primary-items" class="nav-menu sf-js-enabled">
-			<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item 146"><a href="Home page.htm">Home</a> </li>
+			<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item 146"><a href="Home page.htm">Home</a> </li>
 			<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="Programmes.htm">Programmes</a>
 			<ul class="sub-menu">
 				<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="Research_Programmes.htm">Research Programmes</a>
