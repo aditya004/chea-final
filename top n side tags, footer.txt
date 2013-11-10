@@ -33,11 +33,10 @@ top .site-header -->
 		
 		<nav role="navigation" class="site-navigation main-navigation clear-fix">
 			<h1 class="assistive-text">Main Menu</h1>
-			<div class="assistive-text skip-link">
-			<a href="http://oxygendemo.wordpress.com/#content" title="Skip to content">Skip to content</a></div>
+			
 	<div class="menu-main-menu-container">
 		<ul id="menu-primary-items" class="nav-menu sf-js-enabled">
-			<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item 146"><!--<a href="Home%20Page.htm">--><a href="Home page.htm">Home</a> </li>
+			<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item 146"><a href="Home page.htm">Home</a> </li>
 			<li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="Programmes.htm">Programmes</a>
 			<ul class="sub-menu">
 				<li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="Research_Programmes.htm">Research Programmes</a>
@@ -70,8 +69,8 @@ top .site-header -->
 			</li>
 				
 			<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="./facilities.htm">Facilities and Services</a><ul class="sub-menu">
-				<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="labs.html"><!--First Child-->Department labs</a></li>
-				<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a href="counselling.html"><!--Second Child-->Counselling</a></li>
+				<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="labs.html">Department labs</a></li>
+				<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a href="counselling.html">Counselling</a></li>
 			</ul></li>
 			<li><a href="About2.htm">&nbsp;&nbsp;&nbsp;Research</a></li>
 			<li><a href="About2.htm">&nbsp;&nbsp;&nbsp;About us</a></li>
